@@ -4,5 +4,7 @@ suma = x+y
 print("hola!")
 print(f"la suma es: {suma}")
 
-asd = "Hola, soy una cadena"
-print(asd)
+asd= "Habrá veces que si, nocierto"
+print(asd + "!!!")
+
+x = 10
